@@ -13,7 +13,7 @@ Welcome to the JavaScript Code Lab repository! This repository contains a collec
 - Flexbox layout: Utilizes CSS Flexbox for easy and dynamic image arrangement.
 - Easy to customize: Add, remove, or modify images in the gallery with ease.
 
-  ### 2. **Simple-JS-Clock**
+### 2. **Simple-JS-Clock**
 
 **Description:** A simple Javascript and CSS clock with a transitioning second-hand. The time is obtained from JS function while the transition is achieved using a transition-timing-function' and setting cubic-bezier.
 
@@ -27,13 +27,26 @@ Welcome to the JavaScript Code Lab repository! This repository contains a collec
 - Responsive design for various screen sizes.
 - Easy-to-use and customizable.
 
-  ### 4. **Updating-CSS-Variables**
+### 4. **Updating-CSS-Variables**
 
-**Description:**A simple website with substitute content which focuses on applying the concept of Updating CSS Variables through JavaScript.
+**Description:** A simple website with substitute content which focuses on applying the concept of Updating CSS Variables through JavaScript.
 The variables which can be updated here are namely:
  - Spacing
  - Blur
  - Base Colour
+
+### 5. **Whack-A-Mole**
+
+**Description:** A fun and interactive Whack-A-Mole game where users must click on moles popping out of holes within a time limit. This project demonstrates the use of JavaScript for randomization, timing events, user interaction, and dynamic score updating. The game features randomized hole selection and timing, along with a scoring system that tracks user performance.
+
+## Getting Started
+
+To get started with any of the projects, navigate to the respective project folder and open the `index.html` file in your browser. Each project is self-contained and includes all necessary files (HTML, CSS, and JavaScript).
+
+## Contributing
+
+If you have a mini-project that you would like to add to this repository, please fork the repository, create a new folder for your project, and submit a pull request. Contributions are welcome!
+
 
 
 
