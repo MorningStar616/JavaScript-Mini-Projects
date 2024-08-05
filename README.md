@@ -35,7 +35,19 @@ The variables which can be updated here are namely:
  - Blur
  - Base Colour
 
-### 5. **Whack-A-Mole**
+### 6. **Virtual-Drumkit**
+
+**Description:** This application enables users to play a virtual drum kit using their computer keyboard, providing an interactive and responsive musical experience.
+
+**Features**
+
+* Realistic drum sounds: Enjoy high-quality drum samples that closely mimic the sounds of a real drumkit.
+* Multiple drum pads: Play various drums and cymbals, including snare, kick, hi-hat, tom-tom, crash, and ride.
+* Interactive keyboard mapping: Each drum pad is mapped to a specific key on your computer keyboard, providing a seamless drumming experience.
+* Intuitive user interface: The user interface is designed to be user-friendly, making it easy for anyone to start drumming right away.
+
+
+### 6. **Whack-A-Mole**
 
 **Description:** A fun and interactive Whack-A-Mole game where users must click on moles popping out of holes within a time limit. This project demonstrates the use of JavaScript for randomization, timing events, user interaction, and dynamic score updating. The game features randomized hole selection and timing, along with a scoring system that tracks user performance.
 
