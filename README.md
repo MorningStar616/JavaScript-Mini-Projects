@@ -35,7 +35,7 @@ The variables which can be updated here are namely:
  - Blur
  - Base Colour
 
-### 6. **Virtual-Drumkit**
+### 5. **Virtual-Drumkit**
 
 **Description:** This application enables users to play a virtual drum kit using their computer keyboard, providing an interactive and responsive musical experience.
 
